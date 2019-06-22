@@ -1,0 +1,16 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "Udemy npm Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Abreu",
+  "license": "ISC",
+  "dependencies": {
+    "browserlist": "^1.0.1",
+    "moment": "^2.24.0",
+    "semver": "^6.1.1"
+  }
+}
