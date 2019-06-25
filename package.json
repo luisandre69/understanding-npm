@@ -9,8 +9,10 @@
   "author": "Luis Abreu",
   "license": "ISC",
   "dependencies": {
-    "browserlist": "^1.0.1",
     "moment": "^2.24.0",
     "semver": "^6.1.1"
+  },
+  "devDependencies": {
+    "browserlist": "^1.0.1"
   }
 }
